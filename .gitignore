@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+*.html
+*.log
+.env
+.env.*
+!.env.example
+.vulnignore
+

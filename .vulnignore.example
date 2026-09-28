@@ -1,0 +1,4 @@
+# Explicit exceptions, one per line. Include a reason and review date.
+# CVE-2020-0000 # Accepted until 2026-12-31; compensating control documented in ticket SEC-123
+# CVE-2020-0000:django # Scope an exception to one package
+
