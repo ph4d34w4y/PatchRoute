@@ -1,0 +1,7 @@
+{
+  "packages": [
+    {"name": "django", "version": "2.2.0", "ecosystem": "PyPI"},
+    {"name": "lodash", "version": "4.17.11", "ecosystem": "npm"}
+  ]
+}
+
